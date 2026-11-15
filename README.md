@@ -1,13 +1,13 @@
-# Toolcin — 368 browser tools that never upload your files
+﻿# Toolcin â€” 368 browser tools that never upload your files
 
 **Live site:** https://toolcin.pages.dev
 
-Toolcin is a set of 368 small utilities that run entirely in the browser: text tools, developer utilities, image editors, PDF and file converters, calculators, SEO helpers and generators. Nothing is uploaded, there is no account, and there is no database — every file you open stays on your own device.
+Toolcin is a set of 432 small utilities that run entirely in the browser: text tools, developer utilities, image editors, PDF and file converters, calculators, SEO helpers and generators. Nothing is uploaded, there is no account, and there is no database â€” every file you open stays on your own device.
 
 Alongside the toolbox the site keeps two live sections:
 
-- **Trending dramas, movies and series** — ranked by real public interest (Wikimedia pageviews), one page per title, with cast and official links.
-- **Live scores** — cricket, football and basketball cards that refresh on their own.
+- **Trending dramas, movies and series** â€” ranked by real public interest (Wikimedia pageviews), one page per title, with cast and official links.
+- **Live scores** â€” cricket, football and basketball cards that refresh on their own.
 
 ## What it is built with
 
