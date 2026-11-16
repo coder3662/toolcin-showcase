@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap><loc>https://toolcin.pages.dev/sitemap-tools.xml</loc><lastmod>2026-11-16</lastmod></sitemap>
-  <sitemap><loc>https://toolcin.pages.dev/sitemap-trending.xml</loc><lastmod>2026-11-16</lastmod></sitemap>
-  <sitemap><loc>https://toolcin.pages.dev/sitemap-pages.xml</loc><lastmod>2026-11-16</lastmod></sitemap>
-</sitemapindex>
+<!-- Control test: this sitemap lives on GitHub Pages, which is not proxied by
+     Cloudflare. Submitting it in Search Console alongside the pages.dev sitemap
+     separates "Google is slow" from "the pages.dev edge is the problem".
+     It lists only URLs on this host, as a sitemap must. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://coder3662.github.io/toolcin-showcase/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
