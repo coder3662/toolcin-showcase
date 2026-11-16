@@ -2,6 +2,8 @@
 
 **Live site:** https://toolcin.pages.dev
 
+**Browse every tool on one page:** [the complete index of all 432 tools](https://coder3662.github.io/toolcin-showcase/) — grouped by category, no login, nothing uploaded.
+
 Toolcin is a set of 432 small utilities that run entirely in the browser: text tools, developer utilities, image editors, PDF and file converters, calculators, SEO helpers and generators. Nothing is uploaded, there is no account, and there is no database — every file you open stays on your own device.
 
 Alongside the toolbox the site keeps two live sections:
